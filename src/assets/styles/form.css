@@ -23,6 +23,19 @@
   animation: kutokeakulia 1s linear;
 }
 
+.form-title {
+  color: rgb(0, 0, 0);
+  text-shadow: 
+    0 0 5px #fff,
+    0 0 10px #fff,
+    0 0 20px #00ffff,
+    0 0 30px #00ffbf,
+    0 0 40px #ff00de;
+  font-size: 50px;
+  font-weight: 800;
+  margin-bottom: 20px;
+}
+
 .field-container {
   gap: 20px;
 }
